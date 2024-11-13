@@ -45,7 +45,7 @@ footer{
 .hero {
     position: relative;
     height: 100vh;  /* Full height of the viewport */
-    background-image: url('/home/harshal/Downloads/ESD_Assignment_1-main/assets/thali.jpg'); /* Replace with your restaurant image */
+    background-image: url('../assets/thali.jpg'); /* Replace with your restaurant image */
     background-size: cover;
     background-position: center;
     color: rgb(215, 230, 255);
